@@ -1,0 +1,1 @@
+# MiniCash-DatapackTemplate
