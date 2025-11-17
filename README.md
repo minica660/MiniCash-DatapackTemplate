@@ -1,1 +1,5 @@
 # MiniCash-DatapackTemplate
+
+Minecraftデータパックのテンプレート
+こちらは1.21.9移行のバージョンを対応しています
+理由としては1.21.9よりpack.mcmetaファイル内の記述方法が変わったためです
