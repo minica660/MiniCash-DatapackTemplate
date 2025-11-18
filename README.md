@@ -1,4 +1,4 @@
-# MiniCash-MinecraftDatapackTemplate
+# MiniCash-DatapackTemplate
 
  Minecraftデータパックのテンプレート
 
